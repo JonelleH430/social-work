@@ -1,0 +1,24 @@
+{
+  "name": "social-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest-mongodb-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonelleH430/social-work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonelleH430/social-work/issues"
+  },
+  "homepage": "https://github.com/JonelleH430/social-work#readme",
+  "dependencies": {
+    "@shelf/jest-mongodb": "^2.2.0",
+    "jest": "^27.4.7"
+  }
+}
