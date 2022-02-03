@@ -19,6 +19,8 @@
   "homepage": "https://github.com/JonelleH430/social-work#readme",
   "dependencies": {
     "@shelf/jest-mongodb": "^2.2.0",
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.0"
   }
 }
